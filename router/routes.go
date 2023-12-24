@@ -1,7 +1,7 @@
 package router
 
 import (
-	Handler "github.com/Kaebraza/gopportunities/router/Handlers"
+	Handler "github.com/Kaebraza/gopportunities/handlers"
 	"github.com/gin-gonic/gin"
 )
 
